@@ -32,6 +32,14 @@
                 <img class="projet-picture macBook" src="public/picture/projets/portfolio.png" alt="projet de sonny Portfolio">
                 <h3>Mon Portfolio</h3>
             </div>
+
+            <div class="projet col-lg-6 col-md-6 col-sm-12 col-xs-12 text-center">
+                <img class="myGitHub projet-picture" src="public/picture/logo-langage/Git%20Hub.png" alt="logo GitHub">
+                <div>
+                    <a href="https://github.com/SonnySha" class="btn btn-git btn-view"><i class="fab fa-github fa-2x"></i> Acccéder à mon GitHub</a>
+                </div>
+            </div>
+
         </div>
 
 
