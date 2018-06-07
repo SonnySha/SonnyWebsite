@@ -19,7 +19,7 @@
     }
     
     function viewWebsiteScrollspy() {
-        $namePage = "Portfolio";
+        $namePage = 'Portfolio';
         require('view/scroll/SiteScrollspy.php');
       
     }
