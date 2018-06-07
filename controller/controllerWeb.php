@@ -3,23 +3,19 @@
         // $namePage
 
     function viewHome() {
-        
+            require('view/scroll/quiSuisJeView.php');
 
-        
-    require('view/scroll/quiSuisJeView.php');
-        
-    require('view/scroll/bandeauSkillView.php');
-        
-    require('view/scroll/connaissancesView.php');
-        
-    require('view/scroll/bandeauParcoursView.php');
-        
-    require('view/scroll/parcoursView.php');
-        
-    require('view/scroll/bandeauProjetsView.php');
-        
-    require('view/scroll/creationsView.php');
-        
+            require('view/scroll/bandeauSkillView.php');
+
+            require('view/scroll/connaissancesView.php');
+
+            require('view/scroll/bandeauParcoursView.php');
+
+            require('view/scroll/parcoursView.php');
+
+            require('view/scroll/bandeauProjetsView.php');
+
+            require('view/scroll/creationsView.php');  
     }
     
     function viewWebsiteScrollspy() {
