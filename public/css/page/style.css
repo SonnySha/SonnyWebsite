@@ -1,0 +1,174 @@
+body {
+    background: url('../../picture/general/tweed.png');
+
+}
+
+
+/****************************** QUI SUIS JE *****************************************************/
+#header-QuiSuisJe {
+    background: url('../../picture/general/thought-2123970_1280(2).jpg') no-repeat center center;
+    background-size: cover;
+}
+.pageSonny {
+    background-color: #ded8cd;
+    padding-bottom: 40px;
+}
+
+
+.title-QuiSuije {
+    color: #6C2D2C;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 600;
+    
+    margin-top: 45px;
+}
+
+.text-QuiSuije {
+    color: #9F4636;
+    font-family: 'Open Sans', sans-serif;
+    margin-left: 25px;
+    font-size: 1.4em;
+}
+
+/****************************** GAMES REF *****************************************************/
+
+#header-GamesRef {
+    background: url('../../picture/general/gamesref.jpg') no-repeat center center;
+    background-size: cover;
+}
+.imageProjet {
+    height: 400px;
+    width: 500px;
+}
+
+.logo-langage-use {
+    height: 30px;
+    width: 60px;
+}
+
+.item-lagange-use {
+    background-color: gray;
+    border: 2px white solid;
+    
+    color: white;
+    font-weight: 600;
+    
+    
+    
+    padding: 5px;
+    margin: 5px;
+    
+    border-radius: 25px;
+}
+
+.list-langage-use {
+    list-style: none;
+    margin-top: 10px;
+}
+
+
+
+.area-langages {
+    margin-top: 25px;
+    margin-bottom: 35px;
+}
+
+h3 {
+    font-weight: 600;
+}
+
+
+.img-fonctionnalite {
+    height: 550px;
+    width: 600px;
+}
+
+.img-fonctionnalite-macbook {
+    height: 350px;
+    width: 600px;
+    margin-top: 25px;
+}
+
+.img-fonctionnalite-iphone {
+    height: 650px;
+    width: 400px;
+    margin-top: 25px;
+}
+
+.img-fonctionnalite-ipad {
+    height: 700px;
+    width: 700px;
+    margin-top: 25px;
+}
+
+
+
+.firstmac {
+    padding-left: 0px;
+}
+
+/****************************** HTML/CSS *****************************************************/
+
+.title-projet {
+    font-weight: 800;
+}
+
+h2 {
+    font-weight: 600;
+}
+
+.imgMooc {
+    height: 200px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    border-top-left-radius: 35px;
+    border-top-right-radius: 35px;
+    
+
+}
+
+.blocMooc {
+    background-color: #5b6b78;
+    padding-left: 0px;
+    padding-right: 0px;
+    margin-right: 25px;
+    margin-top: 25px;
+    
+    border-radius: 35px;
+    
+    box-shadow: 0px 0px 10px 2px rgba(119, 119, 119, 0.75);
+-moz-box-shadow: 0px 0px 10px 2px rgba(119, 119, 119, 0.75);
+-webkit-box-shadow: 0px 0px 10px 2px rgba(119, 119, 119, 0.75);
+}
+
+.titleMooc {
+    color: white;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.moocHtmlCss {
+    background-image: url("../../picture/skill/htmlCssApprenez....jpg");
+}
+
+.moocEffetsCss {
+    background-image: url("../../picture/skill/_illu_Utilisez%20les%20effets%20avances%20de%20CSS%20sur%20votre%20site.png");
+}
+
+.blocMoocs {
+    margin-bottom: 25px;
+}
+
+/* WordPress */
+.moocWordPressPremierSite {
+    background-image: url(../../picture/skill/wordpresspremiersite.jpg);
+}
+
+.moocRealisezSiteBeau {
+    background-image: url(../../picture/skill/wordpressSiteModerne.jpg);
+}
+
+.moocPropulsezVotreSite {
+    background-image: url(../../picture/skill/wordpressPropulser.png);
+}

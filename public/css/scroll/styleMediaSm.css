@@ -1,0 +1,41 @@
+/* HEADER */
+#bloc-pseudo-info .col-sm-5 {
+    padding-right: 0px;
+    margin-right: -15px;
+}
+
+#bloc-name-objectif {
+    padding-left: 0px;
+}
+
+/* QUI SUI-JE */
+
+#Qui-suis-je .btn {
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
+/* BANDEAU COMPETENCES */
+
+.bloc-round {
+    padding-left: 5px;
+}
+
+/* MES CONNAISSANCE */
+
+#OCR .logoOCR {
+    height: 150px;
+    width: 300px;
+}
+
+#OCR h3 {
+    margin-top: 15px;
+}
+
+/* MES PROJETS */
+
+#area-projets .projet {
+    margin-top: 20px;
+}
+
+

@@ -1,0 +1,144 @@
+/* HEADER */
+#bloc-pseudo-info {
+    margin-left: 20px;
+    margin-right: 20px;
+    
+    margin-top: 15px;
+    
+}
+
+#bloc-picture-sonny {
+    padding-left: 0px;
+}
+
+#bloc-name-objectif {
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+/* QUI SUIS-JE */
+
+#Qui-suis-je .btn {
+    margin-left: 0px;
+    margin-right: 0px;
+    
+    white-space: nowrap;
+}
+
+
+/* BANDEAU COMPETENCES */
+
+
+.round-skill {
+    width: 150px;
+    height: 150px;
+}
+
+#bandeau-skill {
+    height: 370px;
+}
+
+.bloc-round {
+    padding-left: 5px;
+}
+
+/* MES CONNAISSANCES */
+
+#OCR .logoOCR {
+    height: 100px;
+    width: 150px;
+    
+    border: none;
+    border-bottom: 2px white solid;
+}
+
+/* BANDEAU PARCOURS */
+
+#area-title h3 {
+    font-size: 5em;
+    margin-top: 55px;
+
+    font-family: 'Reenie Beanie', cursive;
+}
+
+/* MON PARCOURS */
+
+#Mon-parcours .container {
+    margin: 0 10px;
+}
+
+/* MES PROJETS */
+
+#area-projets {
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+#area-projets .projet-picture {
+    height: 250px;
+    width: 300px;
+}
+
+#area-projets .macBook {
+    height: 200px;
+}
+
+#area-projets .projet {
+    padding: 0;
+}
+
+/* FOOTER */
+footer {
+    height: 100px;
+}
+
+/******************************************* PAGE *************/
+
+/* GAMES REF */
+
+.imageProjet {
+    height: 250px;
+    width: 250px;
+}
+
+.img-fonctionnalite {
+    height: 350px;
+    width: 300px;
+}
+
+.img-fonctionnalite-macbook {
+    height: 200px;
+    width: 300px;
+}
+
+.macbook {
+    padding-left: 5px;
+}
+
+.img-fonctionnalite-iphone {
+    height: 550px;
+    width: 300px;
+    
+}
+
+.img-fonctionnalite-ipad {
+    height: 400px;
+    width: 300px;
+}
+
+#area-fonctionnalite .imac {
+    padding-left: 0px;
+}
+
+#area-fonctionnalite {
+    padding-left: 10px;
+}
+
+/* HTML/CSS */
+
+.blocMoocs {
+    margin-left: 15px;
+    margin-right: 15px;
+    padding-left: 15px;
+
+}

@@ -1,0 +1,383 @@
+/* COMMUN */
+.section-scrollspy {
+    background-color: #ded8cd;
+    padding-bottom: 30px;
+}
+
+.title-section {
+    color: indianred;
+    font-family: 'PT Sans', sans-serif;
+    font-weight: 800;
+}
+
+.description-section {
+    font-family: 'Tajawal', sans-serif;
+    font-size: 17px;
+}
+/*
+
+
+
+    font-family: 'Raleway', sans-serif;
+
+    font-family: 'Poppins', sans-serif;
+
+    font-family: 'PT Sans', sans-serif;
+
+    font-family: 'Tajawal', sans-serif;
+
+    font-family: 'Reenie Beanie', cursive;
+
+*/
+
+
+
+body {
+    background: url('../../picture/general/tweed.png');
+
+}
+
+
+
+
+
+
+
+/****************************** Qui sui-je *****************************************************/
+
+
+
+#Qui-suis-je .btn {
+    margin: 35px;
+    background-color: #ba9e9e;
+}
+
+.quote-container {
+  margin-top: 50px;
+  position: relative;
+}
+
+.note {
+  color: #333;
+  position: relative;
+  width: 300px;
+  margin: 0 auto;
+  padding: 20px;
+  font-family:'Reenie Beanie';
+  font-size: 30px;
+  box-shadow: 0 10px 10px 2px rgba(0,0,0,0.3);
+}
+
+.note .author {
+  display: block;
+  margin: 40px 0 0 0;
+  text-align: right;
+}
+
+.yellow {
+  background: #eae672;
+  -webkit-transform: rotate(2deg);
+  -moz-transform: rotate(2deg);
+  -o-transform: rotate(2deg);
+  -ms-transform: rotate(2deg);
+  transform: rotate(2deg);
+}
+
+.pin {
+  background-color: #aaa;
+  display: block;
+  height: 32px;
+  width: 2px;
+  position: absolute;
+  left: 50%;
+  top: -16px;
+  z-index: 1;
+}
+
+.pin:after {
+  background-color: #A31;
+  background-image: radial-gradient(25% 25%, circle, hsla(0,0%,100%,.3), hsla(0,0%,0%,.3));
+  border-radius: 50%;
+  box-shadow: inset 0 0 0 1px hsla(0,0%,0%,.1),
+              inset 3px 3px 3px hsla(0,0%,100%,.2),
+              inset -3px -3px 3px hsla(0,0%,0%,.2),
+              23px 20px 3px hsla(0,0%,0%,.15);
+  content: '';
+  height: 12px;
+  left: -5px;
+  position: absolute;
+  top: -10px;
+  width: 12px;
+}
+
+.pin:before {
+  background-color: hsla(0,0%,0%,0.1);
+  box-shadow: 0 0 .25em hsla(0,0%,0%,.1);
+  content: '';
+
+  height: 24px;
+  width: 2px;
+  left: 0;
+  position: absolute;
+  top: 8px;
+
+  transform: rotate(57.5deg);
+  -moz-transform: rotate(57.5deg);
+  -webkit-transform: rotate(57.5deg);
+  -o-transform: rotate(57.5deg);
+  -ms-transform: rotate(57.5deg);
+
+  transform-origin: 50% 100%;
+  -moz-transform-origin: 50% 100%;
+  -webkit-transform-origin: 50% 100%;
+  -ms-transform-origin: 50% 100%;
+  -o-transform-origin: 50% 100%;
+}
+
+#Qui-suis-je .btn {
+    color: white;
+}
+
+#note1 {
+    text-decoration-line: line-through;
+}
+
+
+/****************************** BANDEAU COMPETENCES *****************************************************/
+
+#bandeau-skill {
+    background: url('../../picture/general/code.jpg') no-repeat center center;
+    background-size: cover;
+    height: 240px;   
+    border-top: 3px white solid;
+    border-bottom: 3px white solid; 
+    padding-top: 15px;;
+  
+}
+
+.round-skill {
+    display: block;
+    width: 200px;
+    height: 200px;
+    margin: 25px auto;
+    background-color: #8c97a2cc;
+    border-radius: 50%;
+    box-shadow: inset -25px 25px -40px rgba(0,0,0,.5); 
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  
+    margin-top: 0px;
+    
+    background-image: -webkit-linear-gradient(-45deg, rgba(255,255,220,.3) 0%, transparent 100%);
+background-image: -moz-linear-gradient(-45deg, rgba(255,255,220,.3) 0%, transparent 100%);  
+background-image: -o-linear-gradient(-45deg, rgba(255,255,220,.3) 0%, transparent 100%);
+background-image: -ms-linear-gradient(-45deg, rgba(255,255,220,.3) 0%, transparent 100%);
+}
+
+.round-skill h3{
+    color: white;
+    font-weight: bold;
+}
+
+/****************************** MES CONNAISSANCES *****************************************************/
+
+.logo-langage {
+    height: 100px;
+    width: 120px;
+    
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+#Mes-connaissances h3 {
+    font-weight: bold;
+    color: #505050;
+    margin-top: 30px;
+}
+
+#Mes-connaissances h2 {
+    color: #465dae;
+}
+
+#certificationsOCR {
+    margin-bottom: 25px;
+}
+
+.html-logo {
+    height: 80px;
+}
+
+.java-logo {
+    height: 100px;
+    width: 80px;
+}
+
+.logoOCR {
+    height: 200px;
+    width: 400px;
+    
+    border-right: 2px white solid;
+}
+
+#OCR {
+    margin-top: 20px;
+}
+
+#area-skill .description-section {
+    margin-bottom: 20px;
+}
+
+/****************************** BANDEAU MON PARCOURS *****************************************************/
+
+#bandeau-parcours {
+    background: url('../../picture/general/contenair.jpg') no-repeat center center;
+    background-size: cover;
+    height: 240px;   
+    border-top: 3px white solid;
+    border-bottom: 3px white solid; 
+}
+
+.work {
+    background-color: gray;
+    border-radius: 52px;  
+}
+
+.work h3 {
+    padding: 5px;
+    color: white;
+    font-weight: 200;
+}
+#area-title h3 {
+    color: white;
+    font-size: 10vw;
+    margin-top: -20px;
+    font-family: 'Reenie Beanie', cursive;
+}
+
+/****************************** MON PARCOURS *****************************************************/
+
+#Mon-parcours h2 {
+    color: #4F6457;
+}
+
+.logo-career {
+    height: 41px;
+    width: 145px;
+}
+
+#area-career .jumbotron {
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.badge-career {
+    background-color: white;
+    
+    box-shadow: 0px 0px 10px 4px rgba(119, 119, 119, 0.75);
+-moz-box-shadow: 0px 0px 10px 4px rgba(119, 119, 119, 0.75);
+-webkit-box-shadow: 0px 0px 10px 4px rgba(119, 119, 119, 0.75);
+}
+
+.experience-career {
+    font-family: "Segoe UI";
+    font-style: italic;
+}
+
+.post-career {
+
+    font-family: 'Tajawal', sans-serif;
+    
+    font-size: 1.7em;
+
+}
+
+#area-career {
+    margin-top: 25px;
+}
+
+#area-career a {
+    font-weight: 700;
+}
+#area-career i {
+    font-weight: 100;
+}
+
+#area-career .autre-career {
+    height: 41px;
+}
+
+.autre-career h3 {
+    margin-top: 0px;
+    
+    font-family: 'Poppins', sans-serif;
+    
+    text-decoration: underline;
+}
+
+/****************************** BANDEAU PROJETS *****************************************************/
+
+#bandeau-projets {
+    background: url('../../picture/general/startup.jpg') no-repeat center center;
+    background-size: cover;
+    height: 240px;   
+    border-top: 3px white solid;
+    border-bottom: 3px white solid; 
+}
+
+#bandeau-projets h3 {
+    color: #819eb3;
+    font-size: 10vw;
+}
+.bandeau {
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+/****************************** MES PROJETS *****************************************************/
+
+.projet-picture {
+    height: 450px;
+    width: 500px;
+}
+
+#Mes-creations h2 {
+    color: #526471;
+    
+}
+
+#Mes-creations {
+    border-bottom: 2px white solid;
+}
+
+.macBook {
+    height: 300px;
+    width: 500px;
+}
+
+.btn-view {
+    font-weight: 600;
+}
+
+.row-projet {
+    margin-top: 35px;
+}
+
+
+
+/*#area-projets {
+    align-items: center;
+    display: flex;
+}*/
+
+
+
+
+
+
+

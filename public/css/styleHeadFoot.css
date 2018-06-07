@@ -1,0 +1,157 @@
+body {
+    background: url('../picture/general/tweed.png');
+
+}
+
+/* NAVIGATION */
+
+#navigation-menu {
+    border-bottom-left-radius: 55px;
+    border-bottom-right-radius: 55px;
+}
+
+/****************************** HEADER *****************************************************/
+header {
+    background: url('../picture/general/headerCoffee.jpg') no-repeat center center;
+    background-size: cover;
+    height: 600px;
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    border-bottom: 3px #503838 solid;
+}
+
+#bloc-pseudo-info {
+    background-color: antiquewhite;
+    padding: 10px;
+    background-color: #0f0f0eb3;
+    
+    
+}
+
+#bloc-pseudo-info img {
+   height: 250px; 
+}
+
+#bloc-name-objectif {
+    color: white;
+    margin-top: 3%;
+    
+
+}
+
+#bloc-name-objectif h1 {
+    font-family: 'Poppins', sans-serif;
+}
+
+#bloc-name-objectif .ambitions {
+    font-size: 30px;
+    font-family: 'Raleway', sans-serif;
+}
+
+#bloc-picture-sonny {
+    display: flex;
+    justify-content: center;
+}
+
+/****************************** Footer *****************************************************/
+
+/*=========================
+  Icons
+ ================= */
+footer p {
+    color: white;
+    margin-right: 25px;
+    font-weight: 600;
+}
+
+footer {
+    height: 80px;
+    background: url('../picture/general/code-647012_1280.jpg') no-repeat center center;
+    background-size: cover;
+}
+
+/* footer social icons */
+ul.social-network {
+	list-style: none;
+	display: inline;
+	margin-left:0 !important;
+	padding: 0;
+}
+ul.social-network li {
+	display: inline;
+	margin: 0 5px;
+}
+
+
+/* footer social icons */
+.social-network a.icoCv:hover {
+	background-color: #F56505;
+}
+.social-network a.icoDocumentation:hover {
+	background-color:#EB8A3E;
+}
+.social-network a.icoProgramme:hover {
+	background-color:#BD3518;
+}
+
+.social-network a.icoLinkedin:hover {
+	background-color:#007bb7;
+}
+.social-network a.icoRss:hover i, .social-network a.icoFacebook:hover i, .social-network a.icoTwitter:hover i,
+.social-network a.icoGoogle:hover i, .social-network a.icoVimeo:hover i, .social-network a.icoLinkedin:hover i {
+	color:#fff;
+}
+a.socialIcon:hover, .socialHoverClass {
+	color:#44BCDD;
+}
+
+.social-circle li a {
+	display:inline-block;
+	position:relative;
+	margin:0 auto 0 auto;
+	-moz-border-radius:50%;
+	-webkit-border-radius:50%;
+	border-radius:50%;
+	text-align:center;
+	width: 50px;
+	height: 50px;
+	font-size:20px;
+}
+.social-circle li i {
+	margin:0;
+	line-height:50px;
+	text-align: center;
+}
+
+.social-circle li a:hover i, .triggeredHover {
+	-moz-transform: rotate(360deg);
+	-webkit-transform: rotate(360deg);
+	-ms--transform: rotate(360deg);
+	transform: rotate(360deg);
+	-webkit-transition: all 0.2s;
+	-moz-transition: all 0.2s;
+	-o-transition: all 0.2s;
+	-ms-transition: all 0.2s;
+	transition: all 0.2s;
+}
+.social-circle i {
+	color: #fff;
+	-webkit-transition: all 0.8s;
+	-moz-transition: all 0.8s;
+	-o-transition: all 0.8s;
+	-ms-transition: all 0.8s;
+	transition: all 0.8s;
+}
+
+
+.social {
+    
+}
+
+#mailAdress {
+    color: white;
+    font-weight: 600;
+}
