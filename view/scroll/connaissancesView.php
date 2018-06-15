@@ -19,7 +19,7 @@
                 <div class="col-lg-3 col-md-3 col-sm-4 col-xs-6"><a href="https://openclassrooms.com/courses/apprenez-a-coder-avec-javascript"><img class="logo-langage" src="public/picture/logo-langage/javaScript.png" alt="logo javascript"></a></div>
                 <div class="col-lg-3 col-md-3 col-sm-4 col-xs-6"><a href="https://openclassrooms.com/courses/programmez-avec-le-langage-c"><img class="logo-langage" src="public/picture/logo-langage/c++.png" alt="logo c++"></a></div>
                 <div class="col-lg-3 col-md-3 col-sm-4 col-xs-6"><a href="https://openclassrooms.com/courses/les-cles-pour-reussir-son-referencement-web"><img class="logo-langage" src="public/picture/logo-langage/seo.png" alt="logo Seo"></a></div>
-                <div class="col-lg-3 col-md-3 col-sm-4 col-xs-6"><a href="https://openclassrooms.com/courses/gerer-son-code-avec-git-et-github"><img class="logo-langage" src="../../public/picture/logo-langage/Git.png" alt="logo Git"></a></div>
+                <div class="col-lg-3 col-md-3 col-sm-4 col-xs-6"><a href="https://openclassrooms.com/courses/gerer-son-code-avec-git-et-github"><img class="logo-langage" src="public/picture/logo-langage/Git.png" alt="logo Git"></a></div>
             </div>
 
             <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 text-center">

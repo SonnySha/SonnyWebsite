@@ -160,7 +160,7 @@ h2 {
     margin-bottom: 25px;
 }
 
-/* WordPress */
+/****************************** WordPress *****************************************************/
 .moocWordPressPremierSite {
     background-image: url(../../picture/skill/wordpresspremiersite.jpg);
 }
@@ -171,4 +171,7 @@ h2 {
 
 .moocPropulsezVotreSite {
     background-image: url(../../picture/skill/wordpressPropulser.png);
+}
+.moocSiteProfesionnel {
+    background-image: url(../../picture/skill/wordpressSiteProfessionnel.png);
 }

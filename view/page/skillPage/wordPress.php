@@ -25,6 +25,12 @@
                     <h3 class="titleMooc text-center">Propulsez votre site avec WordPress</h3>
                 </div>
             </a>
+            <a href="https://openclassrooms.com/courses/creez-votre-site-professionnel-avec-wordpress">
+                <div class="blocMooc col-lg-3 col-md-5 col-sm-5 col-xs-12">
+                    <div class="imgMooc moocSiteProfesionnel"></div>
+                    <h3 class="titleMooc text-center">Créez votre site professionnel avec WordPress</h3>
+                </div>
+            </a>
         </div>
 
     </div>
