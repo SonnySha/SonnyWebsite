@@ -47,7 +47,7 @@ body {
 }
 
 .item-lagange-use {
-    background-color: gray;
+    background-color: #6d78b4;
     border: 2px white solid;
     
     color: white;
@@ -174,4 +174,28 @@ h2 {
 }
 .moocSiteProfesionnel {
     background-image: url(../../picture/skill/wordpressSiteProfessionnel.png);
+}
+
+/****************************** SUPERPOSE *****************************************************/
+
+#header-Superpose {
+    background: url('../../picture/projets/Superpose/fond.jpg') no-repeat center center;
+    background-size: cover;
+}
+.area-plugin a {
+    color: white;
+}
+
+.logo-plugin-use {
+    height: 120px;
+    width: 120px;
+}
+
+.logo-wordpress {
+    width: 40px;
+}
+
+.screen-fonction-superpose {
+    height: 650px;
+    width: 900px;
 }

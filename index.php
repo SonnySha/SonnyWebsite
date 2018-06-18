@@ -13,6 +13,8 @@
                 pageHtmlCss();
             }elseif($_GET['page'] == 'WordPress') {
                 pageWordPress();
+            }elseif($_GET['page'] == 'Superpose') {
+                pageSuperpose();
             }
             
             

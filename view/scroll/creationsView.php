@@ -18,10 +18,10 @@
             </div>
 
             <div class="projet col-lg-6 col-md-6 col-sm-12 col-xs-12 text-center">
-                <img class="projet-picture DellDisplay" src="public/picture/projets/Superpose/Home.png" alt="projet de sonny gamesRef">
+                <img class="projet-picture DellDisplay" src="public/picture/projets/superpose/home.png" alt="projet de sonny gamesRef">
                 <h3>Superpose</h3>
                 <div>
-                    <!--<a href="Superpose" class="btn btn-warning"><i class="fas fa-2x fa-question-circle"></i></a>-->
+                    <a href="Superpose" class="btn btn-warning"><i class="fas fa-2x fa-question-circle"></i></a>
                     <a href="http://www.sonnyweb.fr/wordPress/" class="btn btn-primary btn-view"><i class="fas fa-2x fa-globe"></i> Voir le projet</a>
                 </div>
             </div>

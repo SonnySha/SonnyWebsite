@@ -31,7 +31,12 @@
     
     function pageGamesRef() {
         $namePage = 'GamesRef';
-        require('view/page/gamesRefView.php');
+        require('view/page/personalCreation/gamesRefView.php');
+    }
+    
+    function pageSuperpose() {
+        $namePage = 'Superpose';
+        require('view/page/personalCreation/superpose.php');
     }
     
     function pageHtmlCss() {
