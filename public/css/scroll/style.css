@@ -360,6 +360,10 @@ background-image: -ms-linear-gradient(-45deg, rgba(255,255,220,.3) 0%, transpare
     width: 500px;
 }
 
+.DellDisplay {
+}
+
+
 .btn-view {
     font-weight: 600;
 }

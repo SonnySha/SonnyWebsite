@@ -18,6 +18,19 @@
             </div>
 
             <div class="projet col-lg-6 col-md-6 col-sm-12 col-xs-12 text-center">
+                <img class="projet-picture DellDisplay" src="public/picture/projets/Superpose/Home.png" alt="projet de sonny gamesRef">
+                <h3>Superpose</h3>
+                <div>
+                    <!--<a href="Superpose" class="btn btn-warning"><i class="fas fa-2x fa-question-circle"></i></a>-->
+                    <a href="http://www.sonnyweb.fr/wordPress/" class="btn btn-primary btn-view"><i class="fas fa-2x fa-globe"></i> Voir le projet</a>
+                </div>
+            </div>
+
+
+        </div>
+
+        <div class="row row-projet">
+            <div class="projet col-lg-6 col-md-6 col-sm-12 col-xs-12 text-center">
                 <img class="projet-picture macBook" src="public/picture/projets/myBlog/home2.png" alt="projet de sonny monBlog">
                 <h3>Mon Blog</h3>
                 <div>
@@ -25,13 +38,16 @@
                     <a href="http://www.sonnyweb.fr/myBlog/index.php" class="btn btn-primary btn-view"><i class="fas fa-2x fa-globe"></i> Voir le projet</a>
                 </div>
             </div>
-        </div>
-
-        <div class="row row-projet">
+            
             <div class="projet col-lg-6 col-md-6 col-sm-12 col-xs-12 text-center">
                 <img class="projet-picture macBook" src="public/picture/projets/portfolio.png" alt="projet de sonny Portfolio">
                 <h3>Mon Portfolio</h3>
             </div>
+            
+        </div>
+
+        <div class="row row-projet">
+            
 
             <div class="projet col-lg-6 col-md-6 col-sm-12 col-xs-12 text-center">
                 <img class="myGitHub projet-picture" src="public/picture/logo-langage/Git%20Hub.png" alt="logo GitHub">

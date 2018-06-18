@@ -22,6 +22,7 @@
                 <li class="item-lagange-use col-lg-2 col-md-3 col-sm-12 col-xs-12"><img class="logo-langage-use" src="public/picture/logo-langage/bootstrap.png" alt="logo bootstrap"> Bootstrap</li>
                 <li class="item-lagange-use col-lg-2 col-md-3 col-sm-12 col-xs-12"><img class="logo-langage-use" src="public/picture/logo-langage/phpmysql.png" alt="logo php/sql"> PHP/SQL</li>
                 <li class="item-lagange-use col-lg-3 col-md-3 col-sm-12 col-xs-12"><img class="logo-langage-use" src="public/picture/logo-langage/phpMvc.png" alt="logo mvc en php"> MVC EN PHP</li>
+                <li class="item-lagange-use col-lg-2 col-md-3 col-sm-12 col-xs-12"><img class="logo-langage-use" src="public/picture/logo-langage/Git.png" alt="logo Git"> Git</li>
             </ul>
         </div>
         <h3 class="text-center">Fonctionnalité disponible</h3>
