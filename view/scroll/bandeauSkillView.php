@@ -15,7 +15,7 @@
         </div>
         <div class="col-lg-3 col-md-3 col-sm-3 col-xs-6 text-center bloc-round">
             <div class="round-skill">
-                <h3>3<br>Projets</h3>
+                <h3>4<br>Projets</h3>
             </div>
         </div>
         <div class="col-lg-3 col-md-3 col-sm-3 col-xs-6 text-center bloc-round">

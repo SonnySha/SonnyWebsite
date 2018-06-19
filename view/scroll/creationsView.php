@@ -2,7 +2,7 @@
     <div class="container">
         <h2 class="text-center title-section">MES CREATIONS</h2>
         <p class="description-section">
-            Je vous fais découvrir dans cette partie la concrétisation des centaines d'heures passées dans les différents cours d'OpenClassRooms, voici toutes mes réalisations personnelles.
+            Dans cette partie, vous trouverez mes projets personnel réalisés grâce aux nombreuses heures passées au sein d'OpenClassRooms.
         </p>
     </div>
 

@@ -2,7 +2,7 @@
     <div class="container">
         <h2 class="text-center title-section">MON PARCOURS</h2>
         <p class="description-section">
-            La logistique, un domaine dans lequel j'ai décroché un bac professionnel. Depuis maintenant 3 ans je réalise des missions en tant que cariste, réceptionnaire ou préparateur de commande. En manque d'épanouissement je décide de me réorienter afin de suivre mes envies.
+            Suite à l'obtention de mon baccalauréat professionnel logistique. Je réalise depuis 3 ans des missions en tant que cariste, réceptionnaire ou préparateur de commande. Ma situation actuelle ne me convenant plus, je décide d'effectuer par la suite un métier qui me correspond.
         </p>
 
         <div class="row" id="area-career">

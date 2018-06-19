@@ -61,6 +61,10 @@ header {
 /*=========================
   Icons
  ================= */
+.bloc-doc {
+    display: inline-block;
+}
+
 footer p {
     color: white;
     margin-right: 25px;

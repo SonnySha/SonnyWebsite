@@ -7,7 +7,7 @@
            </div>
            <div id="bloc-name-objectif" class="col-lg-9 col-md-8 col-sm-7 col-xs-12  text-center">
                <h1>Sonny Chaprier</h1>
-               <h1 class="ambitions"><strong>A la recherche d'une Alternance en tant que développeur</strong></h1>
+               <h1 class="ambitions"><strong>A la recherche d'une alternance en tant que développeur</strong></h1>
            </div>
        </div>
         

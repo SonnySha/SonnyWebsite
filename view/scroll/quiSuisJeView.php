@@ -2,7 +2,7 @@
     <div class="container">
         <h2 class="text-center title-section">QUI SUIS-JE ?</h2>
         <p class="description-section">
-            Si vous êtes arrivé sur ce portfolio et sur cette page, c'est surement car vous êtes curieux de savoir qui je suis et curieux d'en apprendre plus sur moi et mon avenir.
+            Si vous êtes arrivés sur ce portfolio et sur cette page, c'est sûrement car vous êtes curieux de savoir qui je suis et ainsi en apprendre plus sur moi et mon avenir.
         </p>
         <p class="description-section">Dans tous les cas, vous êtes sur la bonne page ! N'hésitez pas à faire un tour dans les différentes rubriques pour apprendre à me connaitre.</p>
 
@@ -18,7 +18,7 @@
             <div class="quote-container col-lg-4 col-md-4 col-sm-6 col-xs-12">
                 <i class="pin"></i>
                 <blockquote class="note yellow">
-                    Trouvez une entreprise avec des projets captivants et une équipe de passionnés.
+                    Trouver une entreprise avec des projets captivants et une équipe de passionnés.
                     <cite class="author">Sonny Chaprier</cite>
                 </blockquote>
             </div>

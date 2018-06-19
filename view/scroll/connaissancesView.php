@@ -2,7 +2,7 @@
     <div class="container">
         <h2 class="text-center title-section">MES CONNAISSANCES</h2>
         <p class="description-section">
-            Mes connaissances et mon intéressement pour la programmation commencent et s'écrivent grâce à OpenClassRooms. J'ai suivi beaucoup de cours qui m'ont aidé et passionné pour ce domaine riche et créatif.
+            Mes connaissances et mon intéressement pour la programmation commencent et s'écrivent grâce à OpenClassRooms. J'ai suivi beaucoup de cours qui m'ont passionnés pour ce domaine riche et créatif.
         </p>
         <p class="description-section"><em>Cliquez sur les images pour voir le ou les cours associés</em></p>
 
